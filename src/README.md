@@ -25,9 +25,3 @@ npm run build
 - Styled `.xlsx` summary generated entirely in the browser with ExcelJS
 - Human-readable text summary available for email and clipboard sharing
 - GitHub Pages deployment after changes reach `main`
-
-
-## Revision 3.3
-
-- App palette is guided by burgundy, pale blue, slate, indigo, and midnight navy.
-- Excel count cells show whole numbers without decimal punctuation and preserve decimal places only when the user entered them.
